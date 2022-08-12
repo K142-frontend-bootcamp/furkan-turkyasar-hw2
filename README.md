@@ -4,6 +4,8 @@
 
 #### username: 'admin' password: 'admin'
 
+[Live:](https://star-wars-swapi-people.netlify.app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
