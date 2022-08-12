@@ -1,0 +1,105 @@
+#delete-button {
+    width: 80px;
+    height: 30px;
+    background-color: transparent;
+    cursor: pointer;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    border-radius: 20px;
+    border: none;
+}
+
+#delete-button:hover {
+    box-shadow: 0px 0px 13px 1px rgba(0,0,0,0.72);
+}
+
+th, td {
+    padding: 15px;
+    text-align: center;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 22px;
+    border-spacing: 4px;
+}
+
+td {
+    text-align: center;
+    padding: 20px;  
+}
+
+table, th, td {
+    border-radius: 20px;
+    padding: 16px;
+}
+
+th {
+    height: 20px;
+    background-color: #333333;
+}
+
+tr > th {
+    color: white;
+}
+
+tr:hover {
+    background-color: #F4E930;
+}
+
+#th-films {
+    justify-content: center;
+    align-items: center;
+}
+
+#search-input {
+    margin-top: 0px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    display: inline-block;
+    padding: 15px;
+    width: 500px;
+    height: 30px;
+    border-radius: 20px;
+}
+
+#search-input:hover {
+    box-shadow: -3px -3px 8px 3px #F4E930;
+}
+
+#gender {
+    display: inline-block;
+    border-radius: 13px;
+}
+
+.filter-inputs {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+tbody:nth-child(odd) {
+    background-color: #ccc;
+}
+
+#image {
+    display: block;
+    width: 250px;
+    height: auto;
+    margin: 35px auto;
+}
+
+@media screen and (max-width: 800px) { 
+    #search-input {
+        margin-left: auto;
+        margin-right: auto;
+        width: 100%;
+    }
+    #image {
+        margin-left: auto;
+        margin-right: auto;
+    }
+  }
