@@ -4,7 +4,7 @@
 
 #### username: 'admin' password: 'admin'
 
-[Live:](https://star-wars-swapi-people.netlify.app/)
+[Live Link](https://star-wars-swapi-people.netlify.app/)
 
 # Getting Started with Create React App
 
