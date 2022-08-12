@@ -6,8 +6,8 @@
 
 [Live Link](https://star-wars-swapi-people.netlify.app/)
 
-![logo](https://github.com/furkanturkyasar/Star-Wars-Characters/blob/master/./images/Login.png?raw=true)
-![app](https://github.com/furkanturkyasar/Star-Wars-Characters/blob/master/./images/app.png?raw=true)
+![logo](https://github.com/furkanturkyasar/Star-Wars-Characters/blob/master/Login.png?raw=true)
+![app](https://github.com/furkanturkyasar/Star-Wars-Characters/blob/master/app.png?raw=true)
 
 # Getting Started with Create React App
 
