@@ -1,5 +1,4 @@
 import "./App.css";
-import Login from "./components/Login";
 import { useState, useEffect } from "react";
 import axios from "axios";
 import Films from "./components/Films";
